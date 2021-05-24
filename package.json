@@ -1,0 +1,13 @@
+{
+  "name": "zx-run",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "zx run.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zx": "^1.11.0"
+  }
+}
